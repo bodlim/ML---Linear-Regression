@@ -2,7 +2,7 @@
 
 This repository is in fulfillment of the Machine Learning Course on Coursera by Andrew Ng.
 
-ex1.m focuses on the development of a linear regression algorithm to detetmine the profit accruable from opening a new outlet for a food truck at different cities.
+ex1.m focuses on the development of a linear regression algorithm to determine the profit accruable from opening a new outlet for a food truck at different cities.
 
 ex1_multi.m focuses on multiple linear regression for predicting the prices of houses.
 
